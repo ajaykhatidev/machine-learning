@@ -1,7 +1,3 @@
-a = 10
-b = 20
-c = a + b
-print(c)
-print("Sum of a and b is:", c)
-  
+mylist=[1,32,4,5,6,7,8,9]
 
+print(mylist)
